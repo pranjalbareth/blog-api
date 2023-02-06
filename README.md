@@ -9,7 +9,9 @@
 
 ## Documentation
 
-Postman Collection - https://www.postman.com/pranjalbareth/workspace/open-world/documentation/13172701-9e31effd-0b09-41ac-a0b7-f93bc14ae8a1
+- Notion Documentation (Recommended) - https://pranjalbareth.notion.site/NestJS-based-Blog-API-3624de686c964931a71ea2401dd79ceb
+
+- Postman Collection - https://www.postman.com/pranjalbareth/workspace/open-world/documentation/13172701-9e31effd-0b09-41ac-a0b7-f93bc14ae8a1
 
 ## Description
 
